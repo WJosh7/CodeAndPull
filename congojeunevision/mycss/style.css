@@ -1,0 +1,155 @@
+
+
+body {
+	 //background-color:#969fab;
+     font-family:Georgia,sans serif;
+     shadow: 100px 100px 100px rgba(255,255,255,0.1),0 1px 3px rgba(0,0,0,0.2) inset;
+	
+    
+	}
+.jumbotron
+{
+    //background-color:#EDE9E4;
+	background-color:#F5F8FB;
+    margin-top:0;
+    color:black;
+	padding:10px;
+	text-align:justify;
+}
+.container
+{
+	width:100%;
+	margin-top:0;
+	
+	
+}
+
+#mytitle
+{
+	background-color:#2E2D88;
+	color:white;
+	margin:0;
+	
+}
+.myMessag1{
+	
+	text-decoration:none;
+	color:blue;
+}
+
+.myMessag2{
+	
+	text-decoration:none;
+	color:green;
+}
+.myMessag3{
+	
+	text-decoration:none;
+	color:orange;
+}
+.img-circle{
+		
+	padding:10px;
+	shadow: 100px 100px 100px rgba(255,255,255,0.1), 100px 100px 100px rgba(0,0,0,0.2) inset;
+}
+.img-circle:hover
+{
+	background-color:white;
+	
+}
+
+.page-header{
+	background-color:#2E2D88;
+	color:white;
+}
+.navbar{
+	
+	font-size:1em;
+	position:center;
+	border-spacing:0;
+	border-radius:0;
+	//padding-top:10px;
+	margin-bottom:10px;
+}
+.navbar:hover{
+	background-color:black;
+	
+}
+#mysliderbegin
+{
+	margin-top:0;
+	
+}
+
+.bs-example-navbar-collapse-1: ul li a
+{
+   text-decoration:none ;
+   display:inline ;
+   margin-bottom:0;
+   margin-top:0;
+}
+
+.navbar-brand
+{
+   padding:5px;
+   padding-left:0;
+}
+.carousel slide
+{
+   padding-top:0;
+
+}
+.btn btn-lg btn-success
+{
+  
+    position:center;
+
+}
+.bannerM{
+   color:blue;
+
+}
+.bannertext{
+	text-decoration:none;
+	color:white;
+}
+a:hover{
+	text-decoration:none;
+	
+}
+.bannertext:hover{
+	text-decoration:none;
+	color:blue;
+	font-size:5em;
+}
+.footer{
+	text-align:center;
+	background-color:#2E2D88;
+	color:white;
+	padding:10px;
+	margin:0;
+}
+.footer:hover{
+		background-color:#006699;
+}
+.footerLink{
+	
+	color:white;
+	border-radius:8px 8px 8px 8px; 
+	
+}
+.footerLink:hover{
+	color:orange;
+}
+.imageslide:hover
+{
+	color:white;
+}
+.container{
+	margin-bottom:0;
+}
+.highPara{
+	
+	color:red;
+	
+}   

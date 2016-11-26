@@ -1,0 +1,124 @@
+
+
+body {
+	 background-color:#969fab;
+     font-family:georgia,sans-serif;
+ 
+	}
+.jumbotron{
+    background-color:#eee;
+    padding:10px;
+    margin-left:5px;
+    margin-right:5px;
+	margin-top:0;
+    color:black;
+	text-align:center;
+
+}
+#into{
+	
+	
+	
+}
+
+.maintitre:hover
+{
+	color:white;
+	
+}
+.maintitre
+{
+	margin-left:250px;
+	
+}
+.row{
+	
+	
+}
+.container{
+	
+	margin-top:0;
+	width:90%;
+}
+#mytitle{
+	background-color:#2E2D88;
+	color:white;
+	margin-top:0;
+	
+}
+.myMessag1{
+	
+	text-decoration:none;
+	color:blue;
+}
+
+.myMessag2{
+	
+	text-decoration:none;
+	color:green;
+}
+.myMessag3{
+	
+	text-decoration:none;
+	color:orange;
+}
+.img-circle{
+	
+	background-color:green;
+	
+	
+}
+.page-header{
+	background-color:#2E2D88;
+	color:white;
+}
+.navbar{
+	
+	font-size:1em;
+	position:center;
+	border-spacing:0;
+	border-radius:0;
+	padding-top:10px;
+	margin-bottom:0;
+}
+#mysliderbegin
+{
+	margin-top:0;
+	
+}
+
+.bs-example-navbar-collapse-1: ul li a
+{
+   text-decoration:none ;
+   display:inline ;
+   margin-bottom:0;
+   margin-top:0;
+}
+
+.navbar-brand
+{
+   padding:5px;
+   padding-left:0;
+}
+.carousel slide
+{
+   padding-top:0;
+
+}
+.btn btn-lg btn-success
+{
+  
+    position:center;
+
+}
+.bannerM{
+   color:blue;
+
+}
+#lomnimage{
+padding-left:30px;	
+	
+}
+
+
+   

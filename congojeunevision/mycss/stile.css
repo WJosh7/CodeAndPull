@@ -1,0 +1,140 @@
+
+
+body {
+       //background-color:#969fab;
+          font-family:georgia,sans-serif;
+ }
+.jumbotron{
+    background-color:#2E2D88;
+	border= 2px solid #ff0000;
+    padding:10px;
+    margin-left:5px;
+    margin-right:5px;
+    margin-top:0;
+    color:white;
+    text-align:center;
+
+}
+#mustbered
+{
+	
+	background-color:red;
+	
+}
+.maintitre:hover
+{
+	color:white;
+	
+}
+
+
+.container{
+	
+	margin-top:0;
+	width:100%;
+}
+
+#mytitle{
+	background-color:#2E2D88;
+	color:white;
+	margin-top:0;
+	
+}
+.myMessag1{
+	
+	text-decoration:none;
+	color:blue;
+}
+
+.myMessag2{
+	
+	text-decoration:none;
+	color:green;
+}
+.myMessag3{
+	
+	text-decoration:none;
+	color:orange;
+}
+.img-circle{
+	
+	padding:15px;
+	
+}
+.img-circle:hover
+{
+	background-color:white;
+}
+.page-header{
+	background-color:#2E2D88;
+	color:white;
+}
+.navbar{
+	
+	font-size:1em;
+	position:center;
+	border-spacing:0;
+	border-radius:0;
+	padding-top:0;
+	margin:0;
+}
+#mysliderbegin
+{
+	margin-top:0;
+	
+}
+
+.bs-example-navbar-collapse-1: ul li a
+{
+   text-decoration:none ;
+   display:inline ;
+   margin-bottom:0;
+   margin-top:0;
+}
+
+.navbar-brand
+{
+   padding:5px;
+   padding-left:0;
+}
+.carousel slide
+{
+   padding-top:0;
+
+}
+.btn btn-lg btn-success
+{
+  
+    position:center;
+
+}
+.bannerM{
+   color:blue;
+
+}
+#lomnimage{
+padding-left:30px;	
+	
+}
+.footer{
+	text-align:center;
+	background-color:#2E2D88;
+	color:white;
+	padding:10px;
+	margin:0;
+}
+.footerLink{
+	
+	color:white;
+	border-radius:8px 8px 8px 8px; 
+	
+}
+.footerLink:hover{
+	
+	color:orange;
+}
+a:hover{
+	text-decoration:none;
+}
+ 
+   
